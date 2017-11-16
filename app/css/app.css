@@ -1,0 +1,37 @@
+.ui.search>.results
+{
+    display: none;
+}
+
+._rangeslider .input-range__track
+{
+    height: 4px;
+    background-color: rgb(106,112,136);
+}
+
+._rangeslider .input-range__slider
+{
+    width: 20px;
+    height: 20px;
+    background-color: #ffffff;
+    border: solid 1px #6a7088;
+    margin-top: -12px;
+}
+
+._rangeslider span.input-range__label-container
+{
+    font-size: 12px;
+    font-weight: 600;
+    color: #485164;
+}
+
+._rangeslider .input-range__label--value 
+{
+    top: -2.1rem;
+}
+
+._rangeslider .input-range__label--max, 
+._rangeslider .input-range__label--min
+{
+    display: none;
+}

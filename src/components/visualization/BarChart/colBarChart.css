@@ -1,0 +1,14 @@
+.advCharts.colBar.dataLabel {
+	
+	font-family: "citrixsans", "citrixsans-regular", AvenirNext-Regular;
+	font-size: 2vmin; /*0.8em;*/
+	color: #4A4A4A;
+}
+
+.advCharts.colBar.yAxisLabel {
+
+	font-family: "citrixsans", "citrixsans-regular", AvenirNext-Regular;
+	font-size: 2vmin; /*0.8em;*/
+	color: #4A4A4A;
+
+}

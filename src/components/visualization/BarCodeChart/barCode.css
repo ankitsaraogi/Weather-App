@@ -1,0 +1,60 @@
+
+.advCharts.adv-event-block {
+
+    margin-bottom: 2px;
+    margin-left: 30px;
+                      
+}
+
+.advCharts.adv-event-type {
+	text-align: center;
+	font-family: "citrixsans", "citrixsans-semibold", AvenirNext-Regular, sans-serif ;
+	font-size: 1.4vmin;
+}
+
+
+.advCharts.adv-xAxis line {
+	fill: none;
+	stroke: rgba(151,151,151,0.5);
+	stroke-width: 0.5px;
+}
+
+.advCharts.adv-xAxis path {
+	display: none;
+}
+
+.advCharts.adv-xAxis text {
+	fill: "#4A4A4A";
+	text-align: center;
+	font-family: "citrixsans", "citrixsans_semibold", AvenirNext-Medium, sans-serif ;
+	font-weight: 500;
+	font-size: 1.5vmin;
+}
+
+.advCharts.adv-barcodeLabel {
+
+	fill: "#4A4A4A";
+	text-align: center;
+	font-family: "citrixsans", "citrixsans_semibold", AvenirNext-DemiBold, sans-serif ;
+	font-weight: 700;
+	font-size: 1.5vmin;
+
+}
+
+.advCharts.barcodelegendLinear.legendText {
+
+	fill: "#4A4A4A";
+	text-align: center;
+	font-family: "citrixsans", "citrixsans_semibold", AvenirNext-DemiBold, sans-serif ;
+	font-weight: 700;
+	font-size: 10px;
+}
+
+.advCharts.barcodelegendLinear.legendTitle {
+
+	fill: "#4A4A4A";
+	text-align: center;
+	font-family: "citrixsans", "citrixsans_regular", AvenirNext-DemiBold, sans-serif ;
+	font-weight: 100;
+	font-size: 11px;
+}

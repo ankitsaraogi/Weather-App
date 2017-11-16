@@ -1,0 +1,19 @@
+.advCharts.multiBarChart.y.axis line {
+  fill: none;
+  stroke: #dedede;
+  shape-rendering: crispEdges;
+}
+
+.advCharts.multiBarChart.axis path {
+  display: none;
+}
+
+.advCharts.multiBarChart.axis path {
+  display: none;
+}
+
+.advCharts.multiBarChart.legend text, .advCharts.multiBarChart.axis text {
+	font-family: "citrixsans", "citrixsans-regular", AvenirNext-Regular, SansSerif;
+	font-size: 12px;
+	color: #4a4a4a;
+}
