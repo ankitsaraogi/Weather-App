@@ -1,6 +1,6 @@
 # Weather Application
 
-Application shows the weather report of few cities for last 5 days.
+Application shows the weather report of few cities for last 5 days. (using api.openweathermap.org).
 
 * How to get the project running locally
 ```bash
@@ -17,8 +17,7 @@ npm run styleguide
 
 /src
 
-This contains all the components / containers, which is used to render Weather Application. The src files can be used as a framework code
-to create different Application.
+This contains all the components/containers, which is used to render Weather Application. The components/conatiners are React/Redux based.
 
 
 /app
